@@ -218,6 +218,15 @@ Individual risk indicators are not treated as conclusive.
 The analysis investigates whether multiple sources support the same
 interpretation.
 
+| Evidence Area | Analytical Question |
+|---|---|
+| **Ownership** | Who controlled or managed the vessel during the relevant period? |
+| **Sanctions** | Is there a documented relevant designation or relationship? |
+| **AIS** | What does the movement and transmission history show? |
+| **Flag** | What registration changes occurred, and when? |
+| **Operations** | What activity is independently documented? |
+| **Imagery** | Does available imagery support or challenge the operational picture? |
+
 ```text
 OBSERVATION
      ↓
@@ -267,6 +276,12 @@ remains unresolved.**
 
 Confidence reflects the strength of the evidence supporting the final
 risk assessment.
+
+| Level | Intelligence Assessment |
+|---|---|
+| **HIGH** | Multiple reliable and independent sources support the key findings, with consistent attribution and limited unresolved ambiguity. |
+| **MEDIUM** | A relevant risk pattern is identifiable, but limitations remain in attribution, temporal coverage, source completeness or corroboration. |
+| **LOW** | Available evidence is incomplete, conflicting or insufficient to support a reliable risk assessment. |
 
 ## Confidence Factors
 
